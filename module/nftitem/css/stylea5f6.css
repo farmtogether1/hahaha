@@ -1,0 +1,25 @@
+.nft-item {font-family:Arial;padding:0 0 150px;margin-top:-380px;position: relative;z-index: 2;margin-bottom:-226px;}
+
+.nft-item .nft-item-header {background-color: black center bottom no-repeat;background-size:100%;padding:0px 0 130px;}
+.nft-item  h2{text-align:center;margin-bottom:20px;position:relative; font-family: "ARCO Typography", Arial, sans-serif;color:#cc4d33;}
+.nft-item  h2 .big-header{font-size:60px;display:block;}
+
+.nft-item  h2 {text-align:center;background:url('../images/nftheader.png') bottom center no-repeat;background-size:35vw;margin-bottom:0px;position:relative;z-index:3;padding:140px 0 180px;color:#cc4d33}
+
+.nft-item .nft-item-body{padding:0px 0;padding-bottom: 500px; background:#85bffe;min-height:400px;position:relative;background-image: url('../images/nftcloud.png');background-repeat: no-repeat;}
+.nft-item .nft-item-body .nft-tab-active span {color:#cc4d33!important;}
+.nft-item .nft-item-body .nft-content {display:none;color:#62310b;font-size:20px;font-weight:bold;}
+.nft-item .nft-item-body .nft-active {display:block}
+.nft-item .nft-item-body .nft-class-detail {position:relative}
+.nft-item .nft-item-body .tab {font-family: "ARCO Typography", Arial, sans-serif;color:#cc4d33;font-size:32px;margin-bottom:50px;}
+.nft-item .nft-item-body .tab .tab-switch span{background:url('../images/tab.png') center bottom no-repeat;background-size:100%;display:inline-block;padding:20px 30px;width:200px;height:79px;text-align:center;color:#fff;cursor:pointer;}
+.nft-item .nft-item-body .nft-item-list .introduction {padding:100px 40px;}
+.nft-item .nft-item-body .nft-item-list .introduction h3{font-family: "ARCO Typography", Arial, sans-serif;color:#cc4d33;font-size:48px;}
+.nft-item .nft-item-body .nft-item-list .introduction p{padding:10px 0;color:#62310b;font-size:20px;font-weight:bold;}
+.nft-item .nft-item-body .nft-item-list .nft-item-child img{position:relative;width:120px;height:120px;float:left;margin-right:20px;margin-bottom:20px;cursor:pointer;opacity:0.4; transition-duration: 0.5s;border:3px solid #62310b;border-radius:20px;background:#62310b;}
+.nft-item .nft-item-body .nft-item-list .nft-item-child img.active{opacity:1;border:3px solid #ff9c00;background:#ff9c00;}
+.nft-item .nft-item-body .nft-item-list .nft-item-child img:hover{opacity:1;border:3px solid #ff9c00;background:#ff9c00;}
+
+.nft-item .nft-item-footer {background:url() center top no-repeat;background-size:100%;height:300px;position:relative;    margin-top: -10px;}
+.nft-control .swiper-button-next {width:40px;height:60px;background:url('../images/next.png') center top no-repeat;background-size:100%;position:absolute;top:45%;right:-50px;}
+.nft-control .swiper-button-prev {width:40px;height:60px;background:url('../images/prev.png') center top no-repeat;background-size:100%;position:absolute;top:45%;left:-50px;}

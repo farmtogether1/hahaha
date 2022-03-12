@@ -1,0 +1,18 @@
+.partner {margin-bottom:80px;position:relative;}
+.partner h2{position:relative;top:0;margin-bottom:20px;}
+.partner .text-center {text-align:center;}
+.partner .introduction-system {text-align:center;font-weight:bold;margin-bottom:30px;color:#4f2507;font-family:Arial;}
+.partner-logo {}
+.team {padding:50px 0;}
+.team h2 {margin-bottom:50px;}
+.team-grid, .partner-grid {display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr;grid-gap: 90px;}
+.team .team-item {background:#25131c;border-radius:5px;height:180px;width:100%;}
+.roadmaps  {position:relative;}
+.roadmaps h2 {margin-bottom:210px;}
+.roadmaps .roadmap-item {color:#f5dcc0;position:relative;margin-top:-160px;}
+.roadmaps .roadmap-item h3{text-align:center;position:absolute;right:-150px;width:200px;}
+.roadmaps .r1 {text-align:center;position:absolute;right:-150px;width:200px;}
+.roadmaps .roadmap-2 {margin-left:230px;}
+.roadmaps .roadmap-3 {margin-left:0px;}
+.roadmaps .roadmap-7 {margin-right:0px;}
+.subscribe {position:relative;}

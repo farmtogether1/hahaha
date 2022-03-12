@@ -1,0 +1,12 @@
+.logo-footer {text-align:center;}
+.logo-footer .social-icon {margin-top:10px;}
+.logo-footer .icon {width:36px;height:36px;margin-right:5px;display: inline-block;cursor:pointer;}
+.logo-footer .facebook {background:url('../images/facebook.png') center center no-repeat;background-size:100%;}
+.logo-footer .youtube {background:url('../images/youtube.png') center center no-repeat;background-size:100%;}
+.logo-footer .twitter {background:url('../images/twitter.png') center center no-repeat;background-size:100%;}
+.logo-footer .telegram {background:url('../images/telegram.png') center center no-repeat;background-size:100%;}
+.logo-footer .medium {background:url('../images/medium.png') center center no-repeat;background-size:100%;}
+.logo-footer .discord {background:url('../images/discord.png') center center no-repeat;background-size:100%;}
+@media screen and (max-width: 1400px) {
+	.logo-footer .icon {width:32px;height:32px;margin-right:3px;}
+}

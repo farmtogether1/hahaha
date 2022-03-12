@@ -1,0 +1,37 @@
+.roadmap {font-family:Arial;padding:100px 0;position:relative;margin-top:-450px;}
+.roadmap .roadmap-header {background:url('../images/cloud-roadmap.png') center bottom no-repeat;background-size:cover;padding:280px 0 10px;}
+.roadmap .roadmap-header h2{text-align:center;margin:20px 0 70px;position:relative;font-family: "ARCO Typography", Arial, sans-serif;color:#343c66;}
+.roadmap .roadmap-header h2 .big-header{font-size:100px;position:relative;}
+.roadmap .roadmap-header h2 .big-header:before{content:"";background:url('../images/before-roadmap.png') left bottom no-repeat;position:absolute;width:100px;height:100px;bottom:-39px;left:-34px;}
+.roadmap .roadmap-header h2 .big-header:after{content:"";background:url('../images/super-woman.png') left bottom no-repeat;background-size:contain;position:absolute;width:250px;height:200px;bottom:0px;left:-140px;}
+.roadmap .roadmap-header h2 .small-header{font-size:24px;display:block;}
+.roadmap .roadmap-body {background:#fff;padding:10px 0 50px;min-height:400px;}
+.roadmap .roadmap-body .row-main{padding:0 5%;}
+.roadmap .roadmap-body .roadmap-wrap-1 {margin-bottom:30px;background-image: linear-gradient(to right, black 33%, rgba(255,255,255,0) 0%);
+background-position: bottom;
+background-size: 15px 1px;
+background-repeat: repeat-x;padding-bottom:30px;background:url('../images/bg-roadmap-image.png') bottom center repeat-x;    background-size: 24%;}
+.roadmap .roadmap-body .roadmap-detail {text-align:center;color:#724129;font-weight:bold;}
+.roadmap .roadmap-body .roadmap-detail h3{padding-bottom:15px;color:#9a4c0e;font-size:24px;font-weight:500;}
+.roadmap .roadmap-body .roadmap-detail p{padding-bottom:5px;}
+.roadmap .roadmap-body .roadmap-detail .roadmap-text {position:relative;}
+.roadmap .roadmap-body .roadmap-detail .roadmap-images {margin-bottom:20px;padding:3%;background-image: linear-gradient(to right, #200601 33%, rgba(255,255,255,0) 0%);
+background-position: bottom;
+background-size: 15px 1px;
+background-repeat: repeat-x;position:relative;padding-bottom:50px;
+background:url('../images/bg-roadmap-image.png') bottom center repeat-x;background-size:100%;
+}
+.roadmap .roadmap-body .roadmap-detail .roadmap-images:after {content:"";width:15px;height:15px;border-radius:50%;background:#ba754b;position:absolute;bottom:-7px;left:0;right:0;margin:auto;}
+.roadmap .roadmap-body .roadmap-wrap-2 .roadmap-detail:first-child .roadmap-images:before {content:"";height:116.5%;width:100px;z-index:2;position:absolute;
+background:url('../images/roadmap-line-left.png') bottom center no-repeat;
+background-size: contain;
+top:-32px;
+left:-88px;
+}
+.roadmap .roadmap-body .roadmap-wrap-1 .roadmap-detail:last-child .roadmap-text:before {content:"";height:200%;width:111px;z-index:2;position:absolute;
+background:url('../images/roadmap-line-right.png') bottom center no-repeat;
+background-size: contain;
+top:-37px;
+right:-88px;
+}
+.roadmap .roadmap-footer {background:url('../images/cloud-roadmap-bottom.png') center bottom no-repeat;background-size:cover;height:250px;position:relative;}

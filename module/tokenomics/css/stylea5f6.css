@@ -1,0 +1,21 @@
+.tokenomics-home {font-family:Arial;background-color: #85bffe;background-size:cover;min-height:800px;margin-top:-500px;padding:250px 0 400px;}
+.tokenomics-home .tokenomics-header {text-align:center;margin-bottom:20px; }
+.tokenomics-home h2.heading{text-align:center;color:#54280a;font-family: "ARCO Typography", Arial, sans-serif;margin-bottom:20px;font-size:32px;}
+.tokenomics-home .tokenomics-body {border-radius:10px;padding:50px 0;position:relative;margin-bottom:20px;z-index:2;}
+.tokenomics-home .tokenomics-body:after {content:"";width:334px;height:403px;background:url('') bottom center no-repeat;background-size:contain;position:absolute;bottom:-50px;right:-170px;}
+.tokenomics-home .tokenomics-body .chart{width: 1280px;}
+.tokenomics-home .tokenomics-body .char img{width:100%;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p{padding:8px;position:relative;color:#b15632;font-weight:bold;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p:before {content:"";width:18px;height:18px;border-radius:50%;position:absolute;left:-18px;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.strategy-sale:before{background:#97ebcc;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.private-sale:before{background:#f5dab1;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.pucblic-sale:before{background:#f0f170;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.coreteam:before{background:#bdf0b0;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.advisor:before{background:#89dbaf;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.marketing:before{background:#93bdda;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.staking:before{background:#83cac1;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.play-to-earn:before{background:#f0ba90;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.liquidity:before{background:#dfcc95;}
+.tokenomics-home .tokenomics-body .tokenomics-detail p.ecosystem:before{background:#dceaa9;}
+.tokenomics-home .vesting-body {border:3px solid #343c66;border-radius:10px;padding:50px 20px;position:relative;margin-bottom:20px;z-index:1;}
+.tokenomics-home .vesting-body h3{margin-bottom:20px;color:#533418;}

@@ -1,0 +1,20 @@
+.game-activities {font-family:Arial;padding:0px 0;position:relative;margin-top:-200px;}
+.game-activities .game-activities-wrap {position:relative;}
+.game-activities .game-activities-header {background:url('') center bottom no-repeat;background-size:100%;padding:0px 0 10px; background-color: #85bffe;}
+.game-activities .game-activities-header h2{text-align:center;position:relative;font-family: "ARCO Typography", Arial, sans-serif;color:#cc4d33;}
+.game-activities .game-activities-header h2 .big-header{font-size:60px;display:block;}
+.game-activities .game-activities-header h2 .small-header{font-size:48px;display:block;}
+
+.game-activities  h2 {text-align:center;background:url('../images/gameactiviti.png') bottom center no-repeat;background-size:35vw;;;z-index:3;padding:450px 0 0px;color:#cc4d33}
+
+
+.game-activities .game-activities-header h2:before{content:"";width:264px;height:427px;background:url('') center center no-repeat;background-size:contain;position:absolute;top:-154px;left:0;right:0;margin:auto;}
+.game-activities .game-activities-body {background:#85bffe;padding:0px 0;}
+.game-activities .game-activities-detail {padding:0 30px;font-weight:bold;color:#b15632;}
+.game-activities .game-activities-detail .game-activities-description p{padding:5px 0px;}
+.game-activities .game-activities-detail img{max-width:100%;width:auto;}
+.game-activities .game-activities-footer {background:url() center bottom no-repeat;height:300px;position:relative;}
+.game-activities .game-activities-footer:before {content:"";background:url() left top no-repeat;background-size:contain;height:500px;width:500px;position:absolute;left:0;top:-120px;}
+.game-activities .game-activities-footer:after {content:"";background:url('') right top no-repeat;background-size:contain;height:400px;width:400px;position:absolute;right:0;top:0;}
+.game-activities .game-activities-wrap .next-icon {right:-50px;}
+.game-activities .game-activities-wrap .prev-icon {left:-50px;}
